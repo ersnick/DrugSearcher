@@ -1,0 +1,1095 @@
+2024-10-24 20:39:41,296 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:39:42,753 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:39:42,846 - INFO - Found 258 links on page 1 for letter 'a'
+2024-10-24 20:39:44,229 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=2
+2024-10-24 20:39:44,316 - INFO - Found 207 links on page 2 for letter 'a'
+2024-10-24 20:39:45,676 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=3
+2024-10-24 20:39:45,759 - INFO - Found 205 links on page 3 for letter 'a'
+2024-10-24 20:39:47,224 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=4
+2024-10-24 20:39:47,310 - INFO - Found 237 links on page 4 for letter 'a'
+2024-10-24 20:39:48,767 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=5
+2024-10-24 20:39:48,854 - INFO - Found 184 links on page 5 for letter 'a'
+2024-10-24 20:39:50,377 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=6
+2024-10-24 20:39:50,463 - INFO - Found 216 links on page 6 for letter 'a'
+2024-10-24 20:39:51,862 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=7
+2024-10-24 20:39:51,959 - INFO - Found 196 links on page 7 for letter 'a'
+2024-10-24 20:39:53,268 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=8
+2024-10-24 20:39:53,350 - INFO - Found 214 links on page 8 for letter 'a'
+2024-10-24 20:39:54,749 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=9
+2024-10-24 20:39:54,831 - INFO - Found 229 links on page 9 for letter 'a'
+2024-10-24 20:39:56,555 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=10
+2024-10-24 20:39:56,626 - INFO - Found 144 links on page 10 for letter 'a'
+2024-10-24 20:39:58,104 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=11
+2024-10-24 20:39:58,183 - INFO - Found 176 links on page 11 for letter 'a'
+2024-10-24 20:39:59,550 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=12
+2024-10-24 20:39:59,654 - INFO - Found 223 links on page 12 for letter 'a'
+2024-10-24 20:40:01,003 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=13
+2024-10-24 20:40:01,089 - INFO - Found 162 links on page 13 for letter 'a'
+2024-10-24 20:40:02,780 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=14
+2024-10-24 20:40:02,853 - INFO - Found 175 links on page 14 for letter 'a'
+2024-10-24 20:40:04,296 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=15
+2024-10-24 20:40:04,370 - INFO - Found 148 links on page 15 for letter 'a'
+2024-10-24 20:40:05,823 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=16
+2024-10-24 20:40:05,929 - INFO - Found 253 links on page 16 for letter 'a'
+2024-10-24 20:40:07,478 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=17
+2024-10-24 20:40:07,562 - INFO - Found 211 links on page 17 for letter 'a'
+2024-10-24 20:40:09,085 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=18
+2024-10-24 20:40:09,170 - INFO - Found 247 links on page 18 for letter 'a'
+2024-10-24 20:40:10,650 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=19
+2024-10-24 20:40:10,736 - INFO - Found 240 links on page 19 for letter 'a'
+2024-10-24 20:40:12,028 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=20
+2024-10-24 20:40:12,101 - INFO - Found 201 links on page 20 for letter 'a'
+2024-10-24 20:40:13,397 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=21
+2024-10-24 20:40:13,500 - INFO - Found 172 links on page 21 for letter 'a'
+2024-10-24 20:40:14,865 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=22
+2024-10-24 20:40:14,945 - INFO - Found 168 links on page 22 for letter 'a'
+2024-10-24 20:40:16,407 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=23
+2024-10-24 20:40:16,495 - INFO - Found 152 links on page 23 for letter 'a'
+2024-10-24 20:40:17,852 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=24
+2024-10-24 20:40:17,993 - INFO - Found 246 links on page 24 for letter 'a'
+2024-10-24 20:40:19,220 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=25
+2024-10-24 20:40:19,298 - INFO - Found 206 links on page 25 for letter 'a'
+2024-10-24 20:40:20,609 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=26
+2024-10-24 20:40:20,695 - INFO - Found 104 links on page 26 for letter 'a'
+2024-10-24 20:40:21,870 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-a?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-a?p=27
+2024-10-24 20:40:23,080 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-a?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-a?p=28
+2024-10-24 20:40:24,338 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-a?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-a?p=29
+2024-10-24 20:40:24,338 - INFO - Total links found for letter 'a': 5174
+2024-10-24 20:40:24,344 - INFO - Parsing drugs starting with letter 'b'
+2024-10-24 20:40:24,904 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=1
+2024-10-24 20:40:25,022 - INFO - Found 175 links on page 1 for letter 'b'
+2024-10-24 20:40:25,587 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=2
+2024-10-24 20:40:25,669 - INFO - Found 184 links on page 2 for letter 'b'
+2024-10-24 20:40:26,155 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=3
+2024-10-24 20:40:26,235 - INFO - Found 184 links on page 3 for letter 'b'
+2024-10-24 20:40:26,734 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=4
+2024-10-24 20:40:26,798 - INFO - Found 48 links on page 4 for letter 'b'
+2024-10-24 20:40:27,264 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=5
+2024-10-24 20:40:27,375 - INFO - Found 194 links on page 5 for letter 'b'
+2024-10-24 20:40:27,867 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=6
+2024-10-24 20:40:27,946 - INFO - Found 195 links on page 6 for letter 'b'
+2024-10-24 20:40:28,437 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=7
+2024-10-24 20:40:28,531 - INFO - Found 229 links on page 7 for letter 'b'
+2024-10-24 20:40:29,011 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=8
+2024-10-24 20:40:29,099 - INFO - Found 204 links on page 8 for letter 'b'
+2024-10-24 20:40:29,573 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=9
+2024-10-24 20:40:29,682 - INFO - Found 231 links on page 9 for letter 'b'
+2024-10-24 20:40:30,138 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=10
+2024-10-24 20:40:30,205 - INFO - Found 58 links on page 10 for letter 'b'
+2024-10-24 20:40:30,756 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=11
+2024-10-24 20:40:30,824 - INFO - Found 80 links on page 11 for letter 'b'
+2024-10-24 20:40:31,303 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=12
+2024-10-24 20:40:31,375 - INFO - Found 135 links on page 12 for letter 'b'
+2024-10-24 20:40:31,940 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=13
+2024-10-24 20:40:32,012 - INFO - Found 165 links on page 13 for letter 'b'
+2024-10-24 20:40:32,482 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=14
+2024-10-24 20:40:32,612 - INFO - Found 192 links on page 14 for letter 'b'
+2024-10-24 20:40:33,118 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=15
+2024-10-24 20:40:33,210 - INFO - Found 201 links on page 15 for letter 'b'
+2024-10-24 20:40:33,640 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=16
+2024-10-24 20:40:34,023 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=17
+2024-10-24 20:40:34,475 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=18
+2024-10-24 20:40:34,842 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=19
+2024-10-24 20:40:35,206 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=20
+2024-10-24 20:40:35,568 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=21
+2024-10-24 20:40:35,978 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=22
+2024-10-24 20:40:36,326 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=23
+2024-10-24 20:40:36,683 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=24
+2024-10-24 20:40:37,094 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=25
+2024-10-24 20:40:37,539 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=26
+2024-10-24 20:40:37,947 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=27
+2024-10-24 20:40:38,368 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=28
+2024-10-24 20:40:38,789 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-b?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-b?p=29
+2024-10-24 20:40:38,789 - INFO - Total links found for letter 'b': 2475
+2024-10-24 20:40:38,792 - INFO - Parsing drugs starting with letter 'v'
+2024-10-24 20:40:39,244 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=1
+2024-10-24 20:40:39,322 - INFO - Found 221 links on page 1 for letter 'v'
+2024-10-24 20:40:39,853 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=2
+2024-10-24 20:40:39,929 - INFO - Found 219 links on page 2 for letter 'v'
+2024-10-24 20:40:40,451 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=3
+2024-10-24 20:40:40,524 - INFO - Found 194 links on page 3 for letter 'v'
+2024-10-24 20:40:41,029 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=4
+2024-10-24 20:40:41,144 - INFO - Found 251 links on page 4 for letter 'v'
+2024-10-24 20:40:41,637 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=5
+2024-10-24 20:40:41,723 - INFO - Found 223 links on page 5 for letter 'v'
+2024-10-24 20:40:42,241 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=6
+2024-10-24 20:40:42,311 - INFO - Found 116 links on page 6 for letter 'v'
+2024-10-24 20:40:42,898 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=7
+2024-10-24 20:40:42,982 - INFO - Found 230 links on page 7 for letter 'v'
+2024-10-24 20:40:43,573 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=8
+2024-10-24 20:40:43,657 - INFO - Found 229 links on page 8 for letter 'v'
+2024-10-24 20:40:44,103 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=9
+2024-10-24 20:40:44,210 - INFO - Found 210 links on page 9 for letter 'v'
+2024-10-24 20:40:44,687 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=10
+2024-10-24 20:40:44,763 - INFO - Found 170 links on page 10 for letter 'v'
+2024-10-24 20:40:45,265 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=11
+2024-10-24 20:40:45,335 - INFO - Found 142 links on page 11 for letter 'v'
+2024-10-24 20:40:45,808 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-v?p=12
+2024-10-24 20:40:45,858 - INFO - Found 114 links on page 12 for letter 'v'
+2024-10-24 20:40:46,203 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=13
+2024-10-24 20:40:46,736 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=14
+2024-10-24 20:40:47,137 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=15
+2024-10-24 20:40:47,556 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=16
+2024-10-24 20:40:48,035 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=17
+2024-10-24 20:40:48,413 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=18
+2024-10-24 20:40:48,849 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=19
+2024-10-24 20:40:49,346 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=20
+2024-10-24 20:40:49,778 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=21
+2024-10-24 20:40:50,198 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=22
+2024-10-24 20:40:50,646 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=23
+2024-10-24 20:40:51,088 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=24
+2024-10-24 20:40:51,478 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=25
+2024-10-24 20:40:52,044 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=26
+2024-10-24 20:40:52,409 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=27
+2024-10-24 20:40:52,739 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=28
+2024-10-24 20:40:53,166 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-v?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-v?p=29
+2024-10-24 20:40:53,167 - INFO - Total links found for letter 'v': 2319
+2024-10-24 20:40:53,168 - INFO - Parsing drugs starting with letter 'g'
+2024-10-24 20:40:53,822 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=1
+2024-10-24 20:40:53,911 - INFO - Found 274 links on page 1 for letter 'g'
+2024-10-24 20:40:54,509 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=2
+2024-10-24 20:40:54,619 - INFO - Found 220 links on page 2 for letter 'g'
+2024-10-24 20:40:55,181 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=3
+2024-10-24 20:40:55,265 - INFO - Found 237 links on page 3 for letter 'g'
+2024-10-24 20:40:55,756 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=4
+2024-10-24 20:40:55,832 - INFO - Found 201 links on page 4 for letter 'g'
+2024-10-24 20:40:56,476 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=5
+2024-10-24 20:40:56,559 - INFO - Found 197 links on page 5 for letter 'g'
+2024-10-24 20:40:57,127 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=6
+2024-10-24 20:40:57,203 - INFO - Found 185 links on page 6 for letter 'g'
+2024-10-24 20:40:57,814 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=7
+2024-10-24 20:40:57,933 - INFO - Found 197 links on page 7 for letter 'g'
+2024-10-24 20:40:58,390 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=8
+2024-10-24 20:40:58,468 - INFO - Found 192 links on page 8 for letter 'g'
+2024-10-24 20:40:58,996 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=9
+2024-10-24 20:40:59,067 - INFO - Found 189 links on page 9 for letter 'g'
+2024-10-24 20:40:59,641 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=10
+2024-10-24 20:40:59,717 - INFO - Found 223 links on page 10 for letter 'g'
+2024-10-24 20:41:00,301 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=11
+2024-10-24 20:41:00,373 - INFO - Found 200 links on page 11 for letter 'g'
+2024-10-24 20:41:00,949 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=12
+2024-10-24 20:41:01,051 - INFO - Found 195 links on page 12 for letter 'g'
+2024-10-24 20:41:01,597 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=13
+2024-10-24 20:41:01,671 - INFO - Found 159 links on page 13 for letter 'g'
+2024-10-24 20:41:02,313 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=14
+2024-10-24 20:41:02,390 - INFO - Found 197 links on page 14 for letter 'g'
+2024-10-24 20:41:02,815 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-g?p=15
+2024-10-24 20:41:02,850 - INFO - Found 44 links on page 15 for letter 'g'
+2024-10-24 20:41:03,331 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=16
+2024-10-24 20:41:03,805 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=17
+2024-10-24 20:41:04,178 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=18
+2024-10-24 20:41:04,624 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=19
+2024-10-24 20:41:05,000 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=20
+2024-10-24 20:41:05,557 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=21
+2024-10-24 20:41:06,004 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=22
+2024-10-24 20:41:06,456 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=23
+2024-10-24 20:41:06,935 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=24
+2024-10-24 20:41:07,283 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=25
+2024-10-24 20:41:07,706 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=26
+2024-10-24 20:41:08,094 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=27
+2024-10-24 20:41:08,494 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=28
+2024-10-24 20:41:08,945 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-g?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-g?p=29
+2024-10-24 20:41:08,945 - INFO - Total links found for letter 'g': 2910
+2024-10-24 20:41:08,950 - INFO - Parsing drugs starting with letter 'd'
+2024-10-24 20:41:09,474 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=1
+2024-10-24 20:41:09,558 - INFO - Found 207 links on page 1 for letter 'd'
+2024-10-24 20:41:10,076 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=2
+2024-10-24 20:41:10,184 - INFO - Found 217 links on page 2 for letter 'd'
+2024-10-24 20:41:10,815 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=3
+2024-10-24 20:41:10,891 - INFO - Found 189 links on page 3 for letter 'd'
+2024-10-24 20:41:11,569 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=4
+2024-10-24 20:41:11,655 - INFO - Found 219 links on page 4 for letter 'd'
+2024-10-24 20:41:12,184 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=5
+2024-10-24 20:41:12,272 - INFO - Found 222 links on page 5 for letter 'd'
+2024-10-24 20:41:12,805 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=6
+2024-10-24 20:41:12,879 - INFO - Found 133 links on page 6 for letter 'd'
+2024-10-24 20:41:13,468 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=7
+2024-10-24 20:41:13,578 - INFO - Found 153 links on page 7 for letter 'd'
+2024-10-24 20:41:14,167 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=8
+2024-10-24 20:41:14,244 - INFO - Found 183 links on page 8 for letter 'd'
+2024-10-24 20:41:14,861 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=9
+2024-10-24 20:41:14,929 - INFO - Found 120 links on page 9 for letter 'd'
+2024-10-24 20:41:15,534 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=10
+2024-10-24 20:41:15,615 - INFO - Found 200 links on page 10 for letter 'd'
+2024-10-24 20:41:16,241 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=11
+2024-10-24 20:41:16,344 - INFO - Found 193 links on page 11 for letter 'd'
+2024-10-24 20:41:17,074 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=12
+2024-10-24 20:41:17,145 - INFO - Found 134 links on page 12 for letter 'd'
+2024-10-24 20:41:17,852 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=13
+2024-10-24 20:41:17,939 - INFO - Found 212 links on page 13 for letter 'd'
+2024-10-24 20:41:18,668 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=14
+2024-10-24 20:41:18,744 - INFO - Found 224 links on page 14 for letter 'd'
+2024-10-24 20:41:19,294 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-d?p=15
+2024-10-24 20:41:19,372 - INFO - Found 228 links on page 15 for letter 'd'
+2024-10-24 20:41:19,907 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=16
+2024-10-24 20:41:20,415 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=17
+2024-10-24 20:41:21,116 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=18
+2024-10-24 20:41:21,660 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=19
+2024-10-24 20:41:22,202 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=20
+2024-10-24 20:41:22,780 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=21
+2024-10-24 20:41:23,361 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=22
+2024-10-24 20:41:23,897 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=23
+2024-10-24 20:41:24,433 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=24
+2024-10-24 20:41:24,993 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=25
+2024-10-24 20:41:25,454 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=26
+2024-10-24 20:41:26,112 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=27
+2024-10-24 20:41:26,716 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=28
+2024-10-24 20:41:27,299 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-d?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-d?p=29
+2024-10-24 20:41:27,299 - INFO - Total links found for letter 'd': 2834
+2024-10-24 20:41:27,303 - INFO - Parsing drugs starting with letter 'e'
+2024-10-24 20:41:27,574 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-e?p=1
+2024-10-24 20:41:27,602 - INFO - Found 14 links on page 1 for letter 'e'
+2024-10-24 20:41:27,859 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=2, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=2
+2024-10-24 20:41:28,081 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=3, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=3
+2024-10-24 20:41:28,349 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=4, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=4
+2024-10-24 20:41:28,552 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=5, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=5
+2024-10-24 20:41:28,752 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=6, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=6
+2024-10-24 20:41:28,964 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=7, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=7
+2024-10-24 20:41:29,222 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=8, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=8
+2024-10-24 20:41:29,427 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=9, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=9
+2024-10-24 20:41:29,615 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=10, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=10
+2024-10-24 20:41:29,845 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=11, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=11
+2024-10-24 20:41:30,052 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=12, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=12
+2024-10-24 20:41:30,346 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=13
+2024-10-24 20:41:30,539 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=14
+2024-10-24 20:41:30,803 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=15
+2024-10-24 20:41:31,000 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=16
+2024-10-24 20:41:31,192 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=17
+2024-10-24 20:41:31,386 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=18
+2024-10-24 20:41:31,622 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=19
+2024-10-24 20:41:31,825 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=20
+2024-10-24 20:41:32,123 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=21
+2024-10-24 20:41:32,415 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=22
+2024-10-24 20:41:32,652 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=23
+2024-10-24 20:41:32,920 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=24
+2024-10-24 20:41:33,126 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=25
+2024-10-24 20:41:33,351 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=26
+2024-10-24 20:41:33,597 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=27
+2024-10-24 20:41:33,817 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=28
+2024-10-24 20:41:34,033 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-e?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-e?p=29
+2024-10-24 20:41:34,033 - INFO - Total links found for letter 'e': 14
+2024-10-24 20:41:34,033 - INFO - Parsing drugs starting with letter 'zh'
+2024-10-24 20:41:34,424 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-zh?p=1
+2024-10-24 20:41:34,526 - INFO - Found 175 links on page 1 for letter 'zh'
+2024-10-24 20:41:34,791 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-zh?p=2
+2024-10-24 20:41:34,816 - INFO - Found 28 links on page 2 for letter 'zh'
+2024-10-24 20:41:35,111 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=3, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=3
+2024-10-24 20:41:35,310 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=4, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=4
+2024-10-24 20:41:35,614 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=5, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=5
+2024-10-24 20:41:35,850 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=6, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=6
+2024-10-24 20:41:36,110 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=7, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=7
+2024-10-24 20:41:36,318 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=8, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=8
+2024-10-24 20:41:36,559 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=9, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=9
+2024-10-24 20:41:36,760 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=10, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=10
+2024-10-24 20:41:36,982 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=11, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=11
+2024-10-24 20:41:37,181 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=12, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=12
+2024-10-24 20:41:37,446 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=13
+2024-10-24 20:41:37,660 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=14
+2024-10-24 20:41:37,947 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=15
+2024-10-24 20:41:38,136 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=16
+2024-10-24 20:41:38,349 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=17
+2024-10-24 20:41:38,604 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=18
+2024-10-24 20:41:38,791 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=19
+2024-10-24 20:41:38,985 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=20
+2024-10-24 20:41:39,212 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=21
+2024-10-24 20:41:39,404 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=22
+2024-10-24 20:41:39,613 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=23
+2024-10-24 20:41:39,815 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=24
+2024-10-24 20:41:40,053 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=25
+2024-10-24 20:41:40,257 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=26
+2024-10-24 20:41:40,493 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=27
+2024-10-24 20:41:40,715 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=28
+2024-10-24 20:41:40,946 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-zh?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-zh?p=29
+2024-10-24 20:41:40,946 - INFO - Total links found for letter 'zh': 203
+2024-10-24 20:41:40,951 - INFO - Parsing drugs starting with letter 'z'
+2024-10-24 20:41:41,300 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-z?p=1
+2024-10-24 20:41:41,383 - INFO - Found 200 links on page 1 for letter 'z'
+2024-10-24 20:41:41,762 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-z?p=2
+2024-10-24 20:41:41,846 - INFO - Found 220 links on page 2 for letter 'z'
+2024-10-24 20:41:42,234 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-z?p=3
+2024-10-24 20:41:42,315 - INFO - Found 187 links on page 3 for letter 'z'
+2024-10-24 20:41:42,685 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-z?p=4
+2024-10-24 20:41:42,730 - INFO - Found 45 links on page 4 for letter 'z'
+2024-10-24 20:41:43,000 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=5, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=5
+2024-10-24 20:41:43,238 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=6, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=6
+2024-10-24 20:41:43,550 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=7, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=7
+2024-10-24 20:41:43,845 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=8, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=8
+2024-10-24 20:41:44,140 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=9, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=9
+2024-10-24 20:41:44,428 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=10, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=10
+2024-10-24 20:41:44,733 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=11, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=11
+2024-10-24 20:41:44,963 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=12, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=12
+2024-10-24 20:41:45,192 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=13
+2024-10-24 20:41:45,399 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=14
+2024-10-24 20:41:45,698 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=15
+2024-10-24 20:41:45,948 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=16
+2024-10-24 20:41:46,183 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=17
+2024-10-24 20:41:46,440 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=18
+2024-10-24 20:41:46,708 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=19
+2024-10-24 20:41:46,978 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=20
+2024-10-24 20:41:47,229 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=21
+2024-10-24 20:41:47,464 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=22
+2024-10-24 20:41:47,717 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=23
+2024-10-24 20:41:47,987 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=24
+2024-10-24 20:41:48,259 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=25
+2024-10-24 20:41:48,468 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=26
+2024-10-24 20:41:48,744 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=27
+2024-10-24 20:41:48,991 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=28
+2024-10-24 20:41:49,224 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-z?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-z?p=29
+2024-10-24 20:41:49,224 - INFO - Total links found for letter 'z': 652
+2024-10-24 20:41:49,226 - INFO - Parsing drugs starting with letter 'i'
+2024-10-24 20:41:49,686 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=1
+2024-10-24 20:41:49,798 - INFO - Found 180 links on page 1 for letter 'i'
+2024-10-24 20:41:50,252 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=2
+2024-10-24 20:41:50,329 - INFO - Found 176 links on page 2 for letter 'i'
+2024-10-24 20:41:50,993 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=3
+2024-10-24 20:41:51,077 - INFO - Found 212 links on page 3 for letter 'i'
+2024-10-24 20:41:51,559 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=4
+2024-10-24 20:41:51,639 - INFO - Found 201 links on page 4 for letter 'i'
+2024-10-24 20:41:52,074 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=5
+2024-10-24 20:41:52,176 - INFO - Found 226 links on page 5 for letter 'i'
+2024-10-24 20:41:52,628 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=6
+2024-10-24 20:41:52,711 - INFO - Found 159 links on page 6 for letter 'i'
+2024-10-24 20:41:53,177 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=7
+2024-10-24 20:41:53,271 - INFO - Found 192 links on page 7 for letter 'i'
+2024-10-24 20:41:53,691 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=8
+2024-10-24 20:41:53,780 - INFO - Found 221 links on page 8 for letter 'i'
+2024-10-24 20:41:54,172 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-i?p=9
+2024-10-24 20:41:54,238 - INFO - Found 52 links on page 9 for letter 'i'
+2024-10-24 20:41:54,551 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=10, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=10
+2024-10-24 20:41:54,862 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=11, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=11
+2024-10-24 20:41:55,192 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=12, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=12
+2024-10-24 20:41:55,533 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=13
+2024-10-24 20:41:55,844 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=14
+2024-10-24 20:41:56,147 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=15
+2024-10-24 20:41:56,431 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=16
+2024-10-24 20:41:56,808 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=17
+2024-10-24 20:41:57,098 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=18
+2024-10-24 20:41:57,425 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=19
+2024-10-24 20:41:57,836 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=20
+2024-10-24 20:41:58,229 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=21
+2024-10-24 20:41:58,549 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=22
+2024-10-24 20:41:58,986 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=23
+2024-10-24 20:41:59,360 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=24
+2024-10-24 20:41:59,712 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=25
+2024-10-24 20:42:00,089 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=26
+2024-10-24 20:42:00,428 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=27
+2024-10-24 20:42:00,717 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=28
+2024-10-24 20:42:01,090 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-i?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-i?p=29
+2024-10-24 20:42:01,090 - INFO - Total links found for letter 'i': 1619
+2024-10-24 20:42:01,093 - INFO - Parsing drugs starting with letter 'j'
+2024-10-24 20:42:01,457 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-j?p=1
+2024-10-24 20:42:01,553 - INFO - Found 97 links on page 1 for letter 'j'
+2024-10-24 20:42:02,130 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-j?p=2
+2024-10-24 20:42:02,202 - INFO - Found 176 links on page 2 for letter 'j'
+2024-10-24 20:42:02,463 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=3, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=3
+2024-10-24 20:42:02,742 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=4, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=4
+2024-10-24 20:42:02,989 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=5, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=5
+2024-10-24 20:42:03,183 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=6, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=6
+2024-10-24 20:42:03,422 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=7, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=7
+2024-10-24 20:42:03,690 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=8, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=8
+2024-10-24 20:42:03,934 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=9, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=9
+2024-10-24 20:42:04,170 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=10, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=10
+2024-10-24 20:42:04,436 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=11, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=11
+2024-10-24 20:42:04,659 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=12, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=12
+2024-10-24 20:42:04,932 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=13
+2024-10-24 20:42:05,272 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=14
+2024-10-24 20:42:05,475 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=15
+2024-10-24 20:42:05,707 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=16
+2024-10-24 20:42:05,979 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=17
+2024-10-24 20:42:06,179 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=18
+2024-10-24 20:42:06,449 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=19
+2024-10-24 20:42:06,716 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=20
+2024-10-24 20:42:06,931 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=21
+2024-10-24 20:42:07,166 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=22
+2024-10-24 20:42:07,404 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=23
+2024-10-24 20:42:07,622 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=24
+2024-10-24 20:42:07,912 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=25
+2024-10-24 20:42:08,126 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=26
+2024-10-24 20:42:08,353 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=27
+2024-10-24 20:42:08,573 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=28
+2024-10-24 20:42:08,788 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-j?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-j?p=29
+2024-10-24 20:42:08,788 - INFO - Total links found for letter 'j': 273
+2024-10-24 20:42:08,792 - INFO - Parsing drugs starting with letter 'k'
+2024-10-24 20:42:09,485 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=1
+2024-10-24 20:42:09,573 - INFO - Found 242 links on page 1 for letter 'k'
+2024-10-24 20:42:10,223 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=2
+2024-10-24 20:42:10,307 - INFO - Found 185 links on page 2 for letter 'k'
+2024-10-24 20:42:10,988 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=3
+2024-10-24 20:42:11,074 - INFO - Found 160 links on page 3 for letter 'k'
+2024-10-24 20:42:11,680 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=4
+2024-10-24 20:42:11,793 - INFO - Found 183 links on page 4 for letter 'k'
+2024-10-24 20:42:12,435 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=5
+2024-10-24 20:42:12,514 - INFO - Found 143 links on page 5 for letter 'k'
+2024-10-24 20:42:13,159 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=6
+2024-10-24 20:42:13,241 - INFO - Found 232 links on page 6 for letter 'k'
+2024-10-24 20:42:13,892 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=7
+2024-10-24 20:42:13,969 - INFO - Found 192 links on page 7 for letter 'k'
+2024-10-24 20:42:14,549 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=8
+2024-10-24 20:42:14,634 - INFO - Found 192 links on page 8 for letter 'k'
+2024-10-24 20:42:15,270 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=9
+2024-10-24 20:42:15,380 - INFO - Found 218 links on page 9 for letter 'k'
+2024-10-24 20:42:16,105 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=10
+2024-10-24 20:42:16,190 - INFO - Found 240 links on page 10 for letter 'k'
+2024-10-24 20:42:16,793 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=11
+2024-10-24 20:42:16,872 - INFO - Found 210 links on page 11 for letter 'k'
+2024-10-24 20:42:17,506 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=12
+2024-10-24 20:42:17,576 - INFO - Found 208 links on page 12 for letter 'k'
+2024-10-24 20:42:18,241 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=13
+2024-10-24 20:42:18,317 - INFO - Found 207 links on page 13 for letter 'k'
+2024-10-24 20:42:19,015 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=14
+2024-10-24 20:42:19,126 - INFO - Found 241 links on page 14 for letter 'k'
+2024-10-24 20:42:20,013 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=15
+2024-10-24 20:42:20,090 - INFO - Found 214 links on page 15 for letter 'k'
+2024-10-24 20:42:20,923 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=16
+2024-10-24 20:42:21,008 - INFO - Found 213 links on page 16 for letter 'k'
+2024-10-24 20:42:21,640 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=17
+2024-10-24 20:42:21,720 - INFO - Found 198 links on page 17 for letter 'k'
+2024-10-24 20:42:22,389 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=18
+2024-10-24 20:42:22,495 - INFO - Found 204 links on page 18 for letter 'k'
+2024-10-24 20:42:23,186 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=19
+2024-10-24 20:42:23,267 - INFO - Found 205 links on page 19 for letter 'k'
+2024-10-24 20:42:24,017 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=20
+2024-10-24 20:42:24,101 - INFO - Found 215 links on page 20 for letter 'k'
+2024-10-24 20:42:24,739 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=21
+2024-10-24 20:42:24,825 - INFO - Found 242 links on page 21 for letter 'k'
+2024-10-24 20:42:25,444 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-k?p=22
+2024-10-24 20:42:25,525 - INFO - Found 191 links on page 22 for letter 'k'
+2024-10-24 20:42:26,163 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-k?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-k?p=23
+2024-10-24 20:42:26,700 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-k?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-k?p=24
+2024-10-24 20:42:27,277 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-k?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-k?p=25
+2024-10-24 20:42:27,790 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-k?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-k?p=26
+2024-10-24 20:42:28,272 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-k?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-k?p=27
+2024-10-24 20:42:28,747 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-k?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-k?p=28
+2024-10-24 20:42:29,435 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-k?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-k?p=29
+2024-10-24 20:42:29,435 - INFO - Total links found for letter 'k': 4535
+2024-10-24 20:42:29,443 - INFO - Parsing drugs starting with letter 'l'
+2024-10-24 20:42:29,974 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=1
+2024-10-24 20:42:30,103 - INFO - Found 201 links on page 1 for letter 'l'
+2024-10-24 20:42:30,602 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=2
+2024-10-24 20:42:30,682 - INFO - Found 223 links on page 2 for letter 'l'
+2024-10-24 20:42:31,288 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=3
+2024-10-24 20:42:31,369 - INFO - Found 210 links on page 3 for letter 'l'
+2024-10-24 20:42:31,901 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=4
+2024-10-24 20:42:31,974 - INFO - Found 159 links on page 4 for letter 'l'
+2024-10-24 20:42:32,503 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=5
+2024-10-24 20:42:32,596 - INFO - Found 207 links on page 5 for letter 'l'
+2024-10-24 20:42:33,120 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=6
+2024-10-24 20:42:33,239 - INFO - Found 196 links on page 6 for letter 'l'
+2024-10-24 20:42:33,729 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=7
+2024-10-24 20:42:33,810 - INFO - Found 215 links on page 7 for letter 'l'
+2024-10-24 20:42:34,294 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=8
+2024-10-24 20:42:34,383 - INFO - Found 226 links on page 8 for letter 'l'
+2024-10-24 20:42:34,829 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=9
+2024-10-24 20:42:34,917 - INFO - Found 241 links on page 9 for letter 'l'
+2024-10-24 20:42:35,377 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=10
+2024-10-24 20:42:35,488 - INFO - Found 203 links on page 10 for letter 'l'
+2024-10-24 20:42:36,072 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=11
+2024-10-24 20:42:36,166 - INFO - Found 248 links on page 11 for letter 'l'
+2024-10-24 20:42:36,616 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=12
+2024-10-24 20:42:36,699 - INFO - Found 229 links on page 12 for letter 'l'
+2024-10-24 20:42:37,174 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-l?p=13
+2024-10-24 20:42:37,221 - INFO - Found 97 links on page 13 for letter 'l'
+2024-10-24 20:42:37,604 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=14
+2024-10-24 20:42:37,946 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=15
+2024-10-24 20:42:38,326 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=16
+2024-10-24 20:42:38,707 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=17
+2024-10-24 20:42:39,064 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=18
+2024-10-24 20:42:39,436 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=19
+2024-10-24 20:42:39,821 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=20
+2024-10-24 20:42:40,169 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=21
+2024-10-24 20:42:40,565 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=22
+2024-10-24 20:42:40,973 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=23
+2024-10-24 20:42:41,393 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=24
+2024-10-24 20:42:41,808 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=25
+2024-10-24 20:42:42,148 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=26
+2024-10-24 20:42:42,589 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=27
+2024-10-24 20:42:42,986 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=28
+2024-10-24 20:42:43,342 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-l?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-l?p=29
+2024-10-24 20:42:43,342 - INFO - Total links found for letter 'l': 2655
+2024-10-24 20:42:43,348 - INFO - Parsing drugs starting with letter 'm'
+2024-10-24 20:42:43,901 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=1
+2024-10-24 20:42:44,007 - INFO - Found 248 links on page 1 for letter 'm'
+2024-10-24 20:42:44,595 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=2
+2024-10-24 20:42:44,709 - INFO - Found 214 links on page 2 for letter 'm'
+2024-10-24 20:42:45,262 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=3
+2024-10-24 20:42:45,338 - INFO - Found 183 links on page 3 for letter 'm'
+2024-10-24 20:42:45,914 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=4
+2024-10-24 20:42:45,999 - INFO - Found 256 links on page 4 for letter 'm'
+2024-10-24 20:42:46,540 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=5
+2024-10-24 20:42:46,620 - INFO - Found 245 links on page 5 for letter 'm'
+2024-10-24 20:42:47,174 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=6
+2024-10-24 20:42:47,264 - INFO - Found 232 links on page 6 for letter 'm'
+2024-10-24 20:42:47,853 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=7
+2024-10-24 20:42:47,976 - INFO - Found 234 links on page 7 for letter 'm'
+2024-10-24 20:42:48,631 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=8
+2024-10-24 20:42:48,711 - INFO - Found 219 links on page 8 for letter 'm'
+2024-10-24 20:42:49,312 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=9
+2024-10-24 20:42:49,391 - INFO - Found 221 links on page 9 for letter 'm'
+2024-10-24 20:42:49,926 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=10
+2024-10-24 20:42:50,012 - INFO - Found 224 links on page 10 for letter 'm'
+2024-10-24 20:42:50,530 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=11
+2024-10-24 20:42:50,644 - INFO - Found 223 links on page 11 for letter 'm'
+2024-10-24 20:42:51,205 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=12
+2024-10-24 20:42:51,293 - INFO - Found 232 links on page 12 for letter 'm'
+2024-10-24 20:42:51,847 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=13
+2024-10-24 20:42:51,934 - INFO - Found 239 links on page 13 for letter 'm'
+2024-10-24 20:42:52,471 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=14
+2024-10-24 20:42:52,552 - INFO - Found 229 links on page 14 for letter 'm'
+2024-10-24 20:42:53,154 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=15
+2024-10-24 20:42:53,234 - INFO - Found 199 links on page 15 for letter 'm'
+2024-10-24 20:42:53,773 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=16
+2024-10-24 20:42:53,890 - INFO - Found 207 links on page 16 for letter 'm'
+2024-10-24 20:42:54,379 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-m?p=17
+2024-10-24 20:42:54,440 - INFO - Found 148 links on page 17 for letter 'm'
+2024-10-24 20:42:54,873 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=18
+2024-10-24 20:42:55,267 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=19
+2024-10-24 20:42:55,721 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=20
+2024-10-24 20:42:56,139 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=21
+2024-10-24 20:42:56,558 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=22
+2024-10-24 20:42:57,090 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=23
+2024-10-24 20:42:57,525 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=24
+2024-10-24 20:42:58,005 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=25
+2024-10-24 20:42:58,428 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=26
+2024-10-24 20:42:58,819 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=27
+2024-10-24 20:42:59,245 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=28
+2024-10-24 20:42:59,661 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-m?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-m?p=29
+2024-10-24 20:42:59,661 - INFO - Total links found for letter 'm': 3753
+2024-10-24 20:42:59,663 - INFO - Parsing drugs starting with letter 'n'
+2024-10-24 20:43:00,182 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=1
+2024-10-24 20:43:00,268 - INFO - Found 227 links on page 1 for letter 'n'
+2024-10-24 20:43:00,757 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=2
+2024-10-24 20:43:00,831 - INFO - Found 203 links on page 2 for letter 'n'
+2024-10-24 20:43:01,304 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=3
+2024-10-24 20:43:01,377 - INFO - Found 184 links on page 3 for letter 'n'
+2024-10-24 20:43:01,891 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=4
+2024-10-24 20:43:01,995 - INFO - Found 190 links on page 4 for letter 'n'
+2024-10-24 20:43:02,520 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=5
+2024-10-24 20:43:02,622 - INFO - Found 218 links on page 5 for letter 'n'
+2024-10-24 20:43:03,242 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=6
+2024-10-24 20:43:03,335 - INFO - Found 172 links on page 6 for letter 'n'
+2024-10-24 20:43:03,902 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=7
+2024-10-24 20:43:03,982 - INFO - Found 231 links on page 7 for letter 'n'
+2024-10-24 20:43:04,484 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=8
+2024-10-24 20:43:04,561 - INFO - Found 183 links on page 8 for letter 'n'
+2024-10-24 20:43:05,008 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=9
+2024-10-24 20:43:05,140 - INFO - Found 237 links on page 9 for letter 'n'
+2024-10-24 20:43:05,610 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=10
+2024-10-24 20:43:05,689 - INFO - Found 186 links on page 10 for letter 'n'
+2024-10-24 20:43:06,172 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=11
+2024-10-24 20:43:06,256 - INFO - Found 219 links on page 11 for letter 'n'
+2024-10-24 20:43:06,734 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-n?p=12
+2024-10-24 20:43:06,792 - INFO - Found 131 links on page 12 for letter 'n'
+2024-10-24 20:43:07,118 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=13
+2024-10-24 20:43:07,520 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=14
+2024-10-24 20:43:07,854 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=15
+2024-10-24 20:43:08,186 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=16
+2024-10-24 20:43:08,551 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=17
+2024-10-24 20:43:08,864 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=18
+2024-10-24 20:43:09,192 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=19
+2024-10-24 20:43:09,716 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=20
+2024-10-24 20:43:10,097 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=21
+2024-10-24 20:43:10,469 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=22
+2024-10-24 20:43:10,874 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=23
+2024-10-24 20:43:11,322 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=24
+2024-10-24 20:43:11,808 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=25
+2024-10-24 20:43:12,176 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=26
+2024-10-24 20:43:12,519 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=27
+2024-10-24 20:43:12,950 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=28
+2024-10-24 20:43:13,281 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-n?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-n?p=29
+2024-10-24 20:43:13,281 - INFO - Total links found for letter 'n': 2381
+2024-10-24 20:43:13,282 - INFO - Parsing drugs starting with letter 'o'
+2024-10-24 20:43:13,712 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-o?p=1
+2024-10-24 20:43:13,794 - INFO - Found 219 links on page 1 for letter 'o'
+2024-10-24 20:43:14,210 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-o?p=2
+2024-10-24 20:43:14,352 - INFO - Found 302 links on page 2 for letter 'o'
+2024-10-24 20:43:14,889 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-o?p=3
+2024-10-24 20:43:15,045 - INFO - Found 258 links on page 3 for letter 'o'
+2024-10-24 20:43:15,569 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-o?p=4
+2024-10-24 20:43:15,699 - INFO - Found 237 links on page 4 for letter 'o'
+2024-10-24 20:43:16,325 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-o?p=5
+2024-10-24 20:43:16,410 - INFO - Found 220 links on page 5 for letter 'o'
+2024-10-24 20:43:17,019 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-o?p=6
+2024-10-24 20:43:17,139 - INFO - Found 210 links on page 6 for letter 'o'
+2024-10-24 20:43:18,002 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-o?p=7
+2024-10-24 20:43:18,087 - INFO - Found 217 links on page 7 for letter 'o'
+2024-10-24 20:43:18,464 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-o?p=8
+2024-10-24 20:43:18,491 - INFO - Found 17 links on page 8 for letter 'o'
+2024-10-24 20:43:18,852 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=9, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=9
+2024-10-24 20:43:19,174 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=10, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=10
+2024-10-24 20:43:19,559 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=11, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=11
+2024-10-24 20:43:19,992 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=12, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=12
+2024-10-24 20:43:20,381 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=13
+2024-10-24 20:43:20,765 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=14
+2024-10-24 20:43:21,173 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=15
+2024-10-24 20:43:21,540 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=16
+2024-10-24 20:43:22,052 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=17
+2024-10-24 20:43:22,519 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=18
+2024-10-24 20:43:22,949 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=19
+2024-10-24 20:43:23,298 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=20
+2024-10-24 20:43:23,709 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=21
+2024-10-24 20:43:24,299 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=22
+2024-10-24 20:43:24,836 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=23
+2024-10-24 20:43:25,232 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=24
+2024-10-24 20:43:25,707 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=25
+2024-10-24 20:43:26,150 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=26
+2024-10-24 20:43:26,626 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=27
+2024-10-24 20:43:27,014 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=28
+2024-10-24 20:43:27,416 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-o?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-o?p=29
+2024-10-24 20:43:27,416 - INFO - Total links found for letter 'o': 1680
+2024-10-24 20:43:27,417 - INFO - Parsing drugs starting with letter 'p'
+2024-10-24 20:43:28,190 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=1
+2024-10-24 20:43:28,275 - INFO - Found 237 links on page 1 for letter 'p'
+2024-10-24 20:43:29,012 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=2
+2024-10-24 20:43:29,091 - INFO - Found 226 links on page 2 for letter 'p'
+2024-10-24 20:43:29,783 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=3
+2024-10-24 20:43:29,888 - INFO - Found 208 links on page 3 for letter 'p'
+2024-10-24 20:43:30,469 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=4
+2024-10-24 20:43:30,556 - INFO - Found 158 links on page 4 for letter 'p'
+2024-10-24 20:43:31,104 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=5
+2024-10-24 20:43:31,186 - INFO - Found 220 links on page 5 for letter 'p'
+2024-10-24 20:43:31,713 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=6
+2024-10-24 20:43:31,790 - INFO - Found 208 links on page 6 for letter 'p'
+2024-10-24 20:43:32,373 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=7
+2024-10-24 20:43:32,458 - INFO - Found 204 links on page 7 for letter 'p'
+2024-10-24 20:43:32,993 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=8
+2024-10-24 20:43:33,112 - INFO - Found 197 links on page 8 for letter 'p'
+2024-10-24 20:43:33,695 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=9
+2024-10-24 20:43:33,770 - INFO - Found 200 links on page 9 for letter 'p'
+2024-10-24 20:43:34,310 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=10
+2024-10-24 20:43:34,392 - INFO - Found 195 links on page 10 for letter 'p'
+2024-10-24 20:43:34,941 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=11
+2024-10-24 20:43:35,017 - INFO - Found 190 links on page 11 for letter 'p'
+2024-10-24 20:43:35,556 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=12
+2024-10-24 20:43:35,636 - INFO - Found 180 links on page 12 for letter 'p'
+2024-10-24 20:43:36,201 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=13
+2024-10-24 20:43:36,313 - INFO - Found 177 links on page 13 for letter 'p'
+2024-10-24 20:43:36,871 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=14
+2024-10-24 20:43:36,956 - INFO - Found 187 links on page 14 for letter 'p'
+2024-10-24 20:43:37,525 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=15
+2024-10-24 20:43:37,607 - INFO - Found 230 links on page 15 for letter 'p'
+2024-10-24 20:43:38,239 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=16
+2024-10-24 20:43:38,319 - INFO - Found 243 links on page 16 for letter 'p'
+2024-10-24 20:43:38,860 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=17
+2024-10-24 20:43:38,966 - INFO - Found 232 links on page 17 for letter 'p'
+2024-10-24 20:43:39,474 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-p?p=18
+2024-10-24 20:43:39,544 - INFO - Found 175 links on page 18 for letter 'p'
+2024-10-24 20:43:39,967 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=19
+2024-10-24 20:43:40,435 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=20
+2024-10-24 20:43:40,873 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=21
+2024-10-24 20:43:41,270 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=22
+2024-10-24 20:43:41,697 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=23
+2024-10-24 20:43:42,172 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=24
+2024-10-24 20:43:42,597 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=25
+2024-10-24 20:43:42,999 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=26
+2024-10-24 20:43:43,397 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=27
+2024-10-24 20:43:43,814 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=28
+2024-10-24 20:43:44,328 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-p?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-p?p=29
+2024-10-24 20:43:44,328 - INFO - Total links found for letter 'p': 3667
+2024-10-24 20:43:44,331 - INFO - Parsing drugs starting with letter 'r'
+2024-10-24 20:43:44,803 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=1
+2024-10-24 20:43:44,885 - INFO - Found 194 links on page 1 for letter 'r'
+2024-10-24 20:43:45,479 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=2
+2024-10-24 20:43:45,555 - INFO - Found 82 links on page 2 for letter 'r'
+2024-10-24 20:43:46,092 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=3
+2024-10-24 20:43:46,181 - INFO - Found 238 links on page 3 for letter 'r'
+2024-10-24 20:43:46,689 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=4
+2024-10-24 20:43:46,807 - INFO - Found 238 links on page 4 for letter 'r'
+2024-10-24 20:43:47,361 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=5
+2024-10-24 20:43:47,440 - INFO - Found 200 links on page 5 for letter 'r'
+2024-10-24 20:43:47,911 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=6
+2024-10-24 20:43:47,989 - INFO - Found 196 links on page 6 for letter 'r'
+2024-10-24 20:43:48,474 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=7
+2024-10-24 20:43:48,554 - INFO - Found 184 links on page 7 for letter 'r'
+2024-10-24 20:43:49,044 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=8
+2024-10-24 20:43:49,131 - INFO - Found 205 links on page 8 for letter 'r'
+2024-10-24 20:43:49,687 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=9
+2024-10-24 20:43:49,804 - INFO - Found 231 links on page 9 for letter 'r'
+2024-10-24 20:43:50,297 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=10
+2024-10-24 20:43:50,381 - INFO - Found 209 links on page 10 for letter 'r'
+2024-10-24 20:43:50,854 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=11
+2024-10-24 20:43:50,941 - INFO - Found 169 links on page 11 for letter 'r'
+2024-10-24 20:43:51,434 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-r?p=12
+2024-10-24 20:43:51,484 - INFO - Found 104 links on page 12 for letter 'r'
+2024-10-24 20:43:51,958 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=13
+2024-10-24 20:43:52,414 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=14
+2024-10-24 20:43:52,888 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=15
+2024-10-24 20:43:53,237 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=16
+2024-10-24 20:43:53,684 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=17
+2024-10-24 20:43:54,072 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=18
+2024-10-24 20:43:54,408 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=19
+2024-10-24 20:43:54,787 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=20
+2024-10-24 20:43:55,157 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=21
+2024-10-24 20:43:55,514 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=22
+2024-10-24 20:43:55,924 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=23
+2024-10-24 20:43:56,292 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=24
+2024-10-24 20:43:56,783 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=25
+2024-10-24 20:43:57,204 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=26
+2024-10-24 20:43:57,628 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=27
+2024-10-24 20:43:58,024 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=28
+2024-10-24 20:43:58,429 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-r?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-r?p=29
+2024-10-24 20:43:58,429 - INFO - Total links found for letter 'r': 2250
+2024-10-24 20:43:58,430 - INFO - Parsing drugs starting with letter 's'
+2024-10-24 20:43:58,941 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=1
+2024-10-24 20:43:59,023 - INFO - Found 221 links on page 1 for letter 's'
+2024-10-24 20:43:59,587 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=2
+2024-10-24 20:43:59,699 - INFO - Found 199 links on page 2 for letter 's'
+2024-10-24 20:44:00,239 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=3
+2024-10-24 20:44:00,320 - INFO - Found 195 links on page 3 for letter 's'
+2024-10-24 20:44:00,859 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=4
+2024-10-24 20:44:00,958 - INFO - Found 218 links on page 4 for letter 's'
+2024-10-24 20:44:01,506 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=5
+2024-10-24 20:44:01,606 - INFO - Found 194 links on page 5 for letter 's'
+2024-10-24 20:44:02,172 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=6
+2024-10-24 20:44:02,275 - INFO - Found 158 links on page 6 for letter 's'
+2024-10-24 20:44:02,811 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=7
+2024-10-24 20:44:02,917 - INFO - Found 260 links on page 7 for letter 's'
+2024-10-24 20:44:03,405 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=8
+2024-10-24 20:44:03,492 - INFO - Found 273 links on page 8 for letter 's'
+2024-10-24 20:44:04,004 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=9
+2024-10-24 20:44:04,067 - INFO - Found 9 links on page 9 for letter 's'
+2024-10-24 20:44:04,556 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=10
+2024-10-24 20:44:04,634 - INFO - Found 222 links on page 10 for letter 's'
+2024-10-24 20:44:05,131 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=11
+2024-10-24 20:44:05,240 - INFO - Found 209 links on page 11 for letter 's'
+2024-10-24 20:44:05,791 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=12
+2024-10-24 20:44:05,875 - INFO - Found 190 links on page 12 for letter 's'
+2024-10-24 20:44:06,399 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=13
+2024-10-24 20:44:06,481 - INFO - Found 249 links on page 13 for letter 's'
+2024-10-24 20:44:07,165 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=14
+2024-10-24 20:44:07,245 - INFO - Found 195 links on page 14 for letter 's'
+2024-10-24 20:44:07,925 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=15
+2024-10-24 20:44:08,036 - INFO - Found 212 links on page 15 for letter 's'
+2024-10-24 20:44:08,496 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-s?p=16
+2024-10-24 20:44:08,519 - INFO - Found 16 links on page 16 for letter 's'
+2024-10-24 20:44:08,996 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=17
+2024-10-24 20:44:09,451 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=18
+2024-10-24 20:44:09,955 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=19
+2024-10-24 20:44:10,399 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=20
+2024-10-24 20:44:10,817 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=21
+2024-10-24 20:44:11,290 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=22
+2024-10-24 20:44:11,782 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=23
+2024-10-24 20:44:12,281 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=24
+2024-10-24 20:44:12,694 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=25
+2024-10-24 20:44:13,144 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=26
+2024-10-24 20:44:13,742 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=27
+2024-10-24 20:44:14,157 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=28
+2024-10-24 20:44:14,589 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-s?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-s?p=29
+2024-10-24 20:44:14,589 - INFO - Total links found for letter 's': 3020
+2024-10-24 20:44:14,592 - INFO - Parsing drugs starting with letter 't'
+2024-10-24 20:44:15,205 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=1
+2024-10-24 20:44:15,291 - INFO - Found 222 links on page 1 for letter 't'
+2024-10-24 20:44:15,815 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=2
+2024-10-24 20:44:15,899 - INFO - Found 219 links on page 2 for letter 't'
+2024-10-24 20:44:16,484 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=3
+2024-10-24 20:44:16,571 - INFO - Found 192 links on page 3 for letter 't'
+2024-10-24 20:44:17,116 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=4
+2024-10-24 20:44:17,228 - INFO - Found 221 links on page 4 for letter 't'
+2024-10-24 20:44:17,855 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=5
+2024-10-24 20:44:17,940 - INFO - Found 198 links on page 5 for letter 't'
+2024-10-24 20:44:18,505 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=6
+2024-10-24 20:44:18,583 - INFO - Found 208 links on page 6 for letter 't'
+2024-10-24 20:44:19,207 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=7
+2024-10-24 20:44:19,289 - INFO - Found 242 links on page 7 for letter 't'
+2024-10-24 20:44:19,918 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=8
+2024-10-24 20:44:20,000 - INFO - Found 213 links on page 8 for letter 't'
+2024-10-24 20:44:20,749 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=9
+2024-10-24 20:44:20,859 - INFO - Found 196 links on page 9 for letter 't'
+2024-10-24 20:44:21,381 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=10
+2024-10-24 20:44:21,465 - INFO - Found 204 links on page 10 for letter 't'
+2024-10-24 20:44:22,057 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=11
+2024-10-24 20:44:22,140 - INFO - Found 218 links on page 11 for letter 't'
+2024-10-24 20:44:22,688 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=12
+2024-10-24 20:44:22,772 - INFO - Found 207 links on page 12 for letter 't'
+2024-10-24 20:44:23,391 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=13
+2024-10-24 20:44:23,472 - INFO - Found 212 links on page 13 for letter 't'
+2024-10-24 20:44:24,225 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=14
+2024-10-24 20:44:24,346 - INFO - Found 183 links on page 14 for letter 't'
+2024-10-24 20:44:25,018 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=15
+2024-10-24 20:44:25,101 - INFO - Found 237 links on page 15 for letter 't'
+2024-10-24 20:44:25,842 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-t?p=16
+2024-10-24 20:44:25,880 - INFO - Found 58 links on page 16 for letter 't'
+2024-10-24 20:44:26,572 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=17
+2024-10-24 20:44:27,332 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=18
+2024-10-24 20:44:28,024 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=19
+2024-10-24 20:44:28,827 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=20
+2024-10-24 20:44:29,579 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=21
+2024-10-24 20:44:30,203 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=22
+2024-10-24 20:44:31,034 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=23
+2024-10-24 20:44:31,748 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=24
+2024-10-24 20:44:32,336 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=25
+2024-10-24 20:44:33,136 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=26
+2024-10-24 20:44:33,688 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=27
+2024-10-24 20:44:34,224 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=28
+2024-10-24 20:44:34,788 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-t?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-t?p=29
+2024-10-24 20:44:34,788 - INFO - Total links found for letter 't': 3230
+2024-10-24 20:44:34,790 - INFO - Parsing drugs starting with letter 'u'
+2024-10-24 20:44:35,126 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-u?p=1
+2024-10-24 20:44:35,205 - INFO - Found 186 links on page 1 for letter 'u'
+2024-10-24 20:44:35,693 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-u?p=2
+2024-10-24 20:44:35,778 - INFO - Found 218 links on page 2 for letter 'u'
+2024-10-24 20:44:36,107 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-u?p=3
+2024-10-24 20:44:36,179 - INFO - Found 107 links on page 3 for letter 'u'
+2024-10-24 20:44:36,477 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=4, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=4
+2024-10-24 20:44:36,744 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=5, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=5
+2024-10-24 20:44:37,003 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=6, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=6
+2024-10-24 20:44:37,277 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=7, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=7
+2024-10-24 20:44:37,510 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=8, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=8
+2024-10-24 20:44:37,798 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=9, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=9
+2024-10-24 20:44:38,046 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=10, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=10
+2024-10-24 20:44:38,357 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=11, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=11
+2024-10-24 20:44:38,627 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=12, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=12
+2024-10-24 20:44:38,822 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=13, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=13
+2024-10-24 20:44:39,024 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=14, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=14
+2024-10-24 20:44:39,295 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=15, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=15
+2024-10-24 20:44:39,541 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=16, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=16
+2024-10-24 20:44:39,757 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=17, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=17
+2024-10-24 20:44:39,994 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=18, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=18
+2024-10-24 20:44:40,207 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=19, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=19
+2024-10-24 20:44:40,468 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=20, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=20
+2024-10-24 20:44:40,688 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=21, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=21
+2024-10-24 20:44:40,914 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=22, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=22
+2024-10-24 20:44:41,124 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=23, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=23
+2024-10-24 20:44:41,347 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=24, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=24
+2024-10-24 20:44:41,579 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=25, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=25
+2024-10-24 20:44:41,871 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=26, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=26
+2024-10-24 20:44:42,177 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=27
+2024-10-24 20:44:42,397 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=28
+2024-10-24 20:44:42,671 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-u?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-u?p=29
+2024-10-24 20:44:42,671 - INFO - Total links found for letter 'u': 511
+2024-10-24 20:44:42,673 - INFO - Parsing drugs starting with letter 'f'
+2024-10-24 20:44:43,227 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=1
+2024-10-24 20:44:43,312 - INFO - Found 229 links on page 1 for letter 'f'
+2024-10-24 20:44:43,826 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=2
+2024-10-24 20:44:43,919 - INFO - Found 233 links on page 2 for letter 'f'
+2024-10-24 20:44:44,447 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=3
+2024-10-24 20:44:44,527 - INFO - Found 199 links on page 3 for letter 'f'
+2024-10-24 20:44:45,037 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=4
+2024-10-24 20:44:45,120 - INFO - Found 207 links on page 4 for letter 'f'
+2024-10-24 20:44:45,696 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=5
+2024-10-24 20:44:45,807 - INFO - Found 192 links on page 5 for letter 'f'
+2024-10-24 20:44:46,318 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=6
+2024-10-24 20:44:46,395 - INFO - Found 190 links on page 6 for letter 'f'
+2024-10-24 20:44:47,021 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=7
+2024-10-24 20:44:47,100 - INFO - Found 198 links on page 7 for letter 'f'
+2024-10-24 20:44:47,680 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=8
+2024-10-24 20:44:47,770 - INFO - Found 214 links on page 8 for letter 'f'
+2024-10-24 20:44:48,305 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-f?p=9
+2024-10-24 20:44:48,411 - INFO - Found 229 links on page 9 for letter 'f'
+2024-10-24 20:44:56,906 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:44:58,335 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:46:50,271 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:46:51,924 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:46:52,014 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=1: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:46:53,372 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=2
+2024-10-24 20:46:53,460 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=2: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:46:54,765 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=3
+2024-10-24 20:46:54,844 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=3: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:46:56,253 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=4
+2024-10-24 20:46:56,334 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=4: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:46:57,647 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=5
+2024-10-24 20:46:57,728 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=5: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:46:58,997 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=6
+2024-10-24 20:46:59,076 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=6: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:47:00,310 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=7
+2024-10-24 20:47:00,405 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=7: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:47:01,632 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=8
+2024-10-24 20:47:01,713 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=8: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:47:03,043 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=9
+2024-10-24 20:47:03,135 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=9: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:47:04,395 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=10
+2024-10-24 20:47:04,464 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=10: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:47:05,817 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=11
+2024-10-24 20:47:05,895 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=11: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:47:07,115 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=12
+2024-10-24 20:47:07,220 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=12: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:47:08,549 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=13
+2024-10-24 20:47:08,623 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=13: ResultSet object has no attribute 'find_all'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:47:24,180 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:47:25,507 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:48:37,678 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:48:39,180 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:48:39,270 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=1: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:48:40,819 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=2
+2024-10-24 20:48:40,908 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=2: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:48:42,211 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=3
+2024-10-24 20:48:42,299 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=3: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:48:43,758 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=4
+2024-10-24 20:48:43,852 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=4: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:49:18,678 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:49:20,051 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:50:17,100 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:50:18,460 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:51:20,061 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:51:21,534 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:51:21,632 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=1: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:51:22,969 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=2
+2024-10-24 20:51:23,056 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=2: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:51:24,504 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=3
+2024-10-24 20:51:24,584 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=3: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:51:26,001 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=4
+2024-10-24 20:51:26,082 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=4: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:51:27,428 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=5
+2024-10-24 20:51:27,511 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=5: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:51:44,577 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:51:46,078 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:51:46,169 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=1: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:51:47,481 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=2
+2024-10-24 20:51:47,568 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=2: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:51:48,808 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=3
+2024-10-24 20:51:48,888 - ERROR - Error parsing page https://www.vidal.ru/drugs/products/p/rus-a?p=3: ResultSet object has no attribute 'attrs'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2024-10-24 20:52:15,358 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:52:16,789 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:52:52,473 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:52:53,777 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 20:52:53,869 - INFO - Found 77 links on page 1 for letter 'a'
+2024-10-24 20:52:55,267 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=2
+2024-10-24 20:52:55,356 - INFO - Found 69 links on page 2 for letter 'a'
+2024-10-24 20:52:56,577 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=3
+2024-10-24 20:52:56,659 - INFO - Found 77 links on page 3 for letter 'a'
+2024-10-24 20:52:58,055 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=4
+2024-10-24 20:52:58,139 - INFO - Found 84 links on page 4 for letter 'a'
+2024-10-24 20:52:59,452 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=5
+2024-10-24 20:52:59,539 - INFO - Found 66 links on page 5 for letter 'a'
+2024-10-24 20:53:00,848 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=6
+2024-10-24 20:53:00,932 - INFO - Found 75 links on page 6 for letter 'a'
+2024-10-24 20:53:02,283 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=7
+2024-10-24 20:53:02,381 - INFO - Found 83 links on page 7 for letter 'a'
+2024-10-24 20:53:03,821 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=8
+2024-10-24 20:53:03,903 - INFO - Found 74 links on page 8 for letter 'a'
+2024-10-24 20:53:05,132 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=9
+2024-10-24 20:53:05,215 - INFO - Found 83 links on page 9 for letter 'a'
+2024-10-24 20:53:06,501 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=10
+2024-10-24 20:53:06,573 - INFO - Found 59 links on page 10 for letter 'a'
+2024-10-24 20:53:07,999 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=11
+2024-10-24 20:53:08,079 - INFO - Found 71 links on page 11 for letter 'a'
+2024-10-24 20:53:09,342 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=12
+2024-10-24 20:53:09,447 - INFO - Found 86 links on page 12 for letter 'a'
+2024-10-24 20:53:10,770 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=13
+2024-10-24 20:53:10,844 - INFO - Found 64 links on page 13 for letter 'a'
+2024-10-24 20:53:12,135 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=14
+2024-10-24 20:53:12,207 - INFO - Found 75 links on page 14 for letter 'a'
+2024-10-24 20:53:13,515 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=15
+2024-10-24 20:53:13,589 - INFO - Found 53 links on page 15 for letter 'a'
+2024-10-24 20:53:14,949 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=16
+2024-10-24 20:53:15,052 - INFO - Found 87 links on page 16 for letter 'a'
+2024-10-24 20:53:16,372 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=17
+2024-10-24 20:53:16,456 - INFO - Found 68 links on page 17 for letter 'a'
+2024-10-24 20:53:17,708 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=18
+2024-10-24 20:53:17,793 - INFO - Found 77 links on page 18 for letter 'a'
+2024-10-24 20:53:19,130 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=19
+2024-10-24 20:53:19,229 - INFO - Found 84 links on page 19 for letter 'a'
+2024-10-24 20:53:20,530 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=20
+2024-10-24 20:53:20,612 - INFO - Found 84 links on page 20 for letter 'a'
+2024-10-24 20:53:21,852 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=21
+2024-10-24 20:53:21,957 - INFO - Found 67 links on page 21 for letter 'a'
+2024-10-24 20:53:23,288 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=22
+2024-10-24 20:53:23,363 - INFO - Found 65 links on page 22 for letter 'a'
+2024-10-24 20:53:24,740 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=23
+2024-10-24 20:53:24,820 - INFO - Found 54 links on page 23 for letter 'a'
+2024-10-24 20:53:26,128 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=24
+2024-10-24 20:53:26,212 - INFO - Found 82 links on page 24 for letter 'a'
+2024-10-24 20:53:27,451 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=25
+2024-10-24 20:53:27,527 - INFO - Found 86 links on page 25 for letter 'a'
+2024-10-24 20:53:28,795 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=26
+2024-10-24 20:53:28,879 - INFO - Found 36 links on page 26 for letter 'a'
+2024-10-24 20:53:30,132 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-a?p=27, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-a?p=27
+2024-10-24 20:53:31,322 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-a?p=28, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-a?p=28
+2024-10-24 20:53:32,551 - ERROR - Failed to fetch page: https://www.vidal.ru/drugs/products/p/rus-a?p=29, error: 404 Client Error: Not Found for url: https://www.vidal.ru/drugs/products/p/rus-a?p=29
+2024-10-24 20:53:32,551 - INFO - Total links found for letter 'a': 1886
+2024-10-24 20:53:32,557 - INFO - Parsing drugs starting with letter 'b'
+2024-10-24 20:53:33,037 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=1
+2024-10-24 20:53:33,117 - INFO - Found 65 links on page 1 for letter 'b'
+2024-10-24 20:53:33,659 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=2
+2024-10-24 20:53:33,739 - INFO - Found 65 links on page 2 for letter 'b'
+2024-10-24 20:53:34,250 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=3
+2024-10-24 20:53:34,326 - INFO - Found 74 links on page 3 for letter 'b'
+2024-10-24 20:53:34,805 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=4
+2024-10-24 20:53:34,868 - INFO - Found 21 links on page 4 for letter 'b'
+2024-10-24 20:53:35,352 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=5
+2024-10-24 20:53:35,457 - INFO - Found 70 links on page 5 for letter 'b'
+2024-10-24 20:53:36,024 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=6
+2024-10-24 20:53:36,107 - INFO - Found 69 links on page 6 for letter 'b'
+2024-10-24 20:53:36,605 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=7
+2024-10-24 20:53:36,685 - INFO - Found 80 links on page 7 for letter 'b'
+2024-10-24 20:53:37,203 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=8
+2024-10-24 20:53:37,287 - INFO - Found 81 links on page 8 for letter 'b'
+2024-10-24 20:53:37,936 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-b?p=9
+2024-10-24 20:53:38,037 - INFO - Found 82 links on page 9 for letter 'b'
+2024-10-24 20:59:20,861 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:59:22,213 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 20:59:53,229 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 20:59:54,671 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 21:00:53,483 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 21:00:55,157 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 21:01:13,600 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 21:01:15,181 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 21:01:24,193 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 21:01:25,576 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 21:01:45,648 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 21:01:46,984 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 21:02:59,446 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 21:03:00,811 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 21:03:20,701 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 21:03:22,045 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 21:03:43,933 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 21:03:45,316 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 21:08:47,239 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 21:08:48,604 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 22:26:10,332 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 22:26:11,736 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 22:26:25,070 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 22:26:25,383 - INFO - Found 77 links on page 1 for letter 'a'
+2024-10-24 22:26:26,712 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=2
+2024-10-24 22:26:27,023 - INFO - Found 69 links on page 2 for letter 'a'
+2024-10-24 22:26:28,334 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=3
+2024-10-24 22:26:28,625 - INFO - Found 77 links on page 3 for letter 'a'
+2024-10-24 22:26:29,937 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=4
+2024-10-24 22:26:30,266 - INFO - Found 84 links on page 4 for letter 'a'
+2024-10-24 22:26:31,674 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=5
+2024-10-24 22:26:31,968 - INFO - Found 66 links on page 5 for letter 'a'
+2024-10-24 22:26:33,256 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=6
+2024-10-24 22:26:33,547 - INFO - Found 75 links on page 6 for letter 'a'
+2024-10-24 22:26:34,831 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=7
+2024-10-24 22:26:35,099 - INFO - Found 83 links on page 7 for letter 'a'
+2024-10-24 22:26:36,383 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=8
+2024-10-24 22:26:36,679 - INFO - Found 74 links on page 8 for letter 'a'
+2024-10-24 22:26:37,974 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=9
+2024-10-24 22:26:38,306 - INFO - Found 83 links on page 9 for letter 'a'
+2024-10-24 22:26:39,572 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=10
+2024-10-24 22:26:39,827 - INFO - Found 59 links on page 10 for letter 'a'
+2024-10-24 22:26:41,074 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=11
+2024-10-24 22:26:41,360 - INFO - Found 71 links on page 11 for letter 'a'
+2024-10-24 22:26:42,625 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=12
+2024-10-24 22:26:42,918 - INFO - Found 86 links on page 12 for letter 'a'
+2024-10-24 22:26:44,152 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=13
+2024-10-24 22:26:44,418 - INFO - Found 64 links on page 13 for letter 'a'
+2024-10-24 22:26:45,703 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=14
+2024-10-24 22:26:45,998 - INFO - Found 75 links on page 14 for letter 'a'
+2024-10-24 22:26:47,203 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=15
+2024-10-24 22:26:47,467 - INFO - Found 53 links on page 15 for letter 'a'
+2024-10-24 22:26:48,753 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=16
+2024-10-24 22:26:49,049 - INFO - Found 87 links on page 16 for letter 'a'
+2024-10-24 22:26:50,374 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=17
+2024-10-24 22:26:50,674 - INFO - Found 68 links on page 17 for letter 'a'
+2024-10-24 22:26:52,113 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=18
+2024-10-24 22:26:52,458 - INFO - Found 77 links on page 18 for letter 'a'
+2024-10-24 22:26:53,702 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=19
+2024-10-24 22:26:54,009 - INFO - Found 84 links on page 19 for letter 'a'
+2024-10-24 22:26:55,252 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=20
+2024-10-24 22:26:55,519 - INFO - Found 84 links on page 20 for letter 'a'
+2024-10-24 22:26:56,860 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=21
+2024-10-24 22:26:57,125 - INFO - Found 67 links on page 21 for letter 'a'
+2024-10-24 22:26:58,409 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=22
+2024-10-24 22:26:58,707 - INFO - Found 65 links on page 22 for letter 'a'
+2024-10-24 22:26:59,934 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=23
+2024-10-24 22:27:00,260 - INFO - Found 54 links on page 23 for letter 'a'
+2024-10-24 22:27:01,530 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=24
+2024-10-24 22:27:01,837 - INFO - Found 82 links on page 24 for letter 'a'
+2024-10-24 22:27:03,039 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=25
+2024-10-24 22:27:03,312 - INFO - Found 86 links on page 25 for letter 'a'
+2024-10-24 22:27:21,892 - INFO - Parsing drugs starting with letter 'a'
+2024-10-24 22:27:23,201 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a
+2024-10-24 22:27:24,689 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/products/p/rus-a?p=1
+2024-10-24 22:27:25,004 - INFO - Found 77 links on page 1 for letter 'a'
+2024-10-24 22:27:25,004 - INFO - Total links found for letter 'a': 77
+2024-10-24 22:27:25,351 - INFO - Successfully fetched page: https://www.vidal.ru/drugs/aakds-gep-b-hib-vaktsina-protiv-difterii-stolbnyaka-gepatita-b-koklyusha-beskletochnaya-adsorbirovannaya-infektsii-vyzyvaemoi-haemophilus-influenzae-tip-b-konyugirovannaya-sinteticheskaya
