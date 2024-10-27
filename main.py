@@ -2,8 +2,7 @@ import logging
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup as bs
-from models import Drug, SessionLocal, init_db
-
+from models import Drug, SessionLocal, init_db, ActiveIngredient
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -29,168 +28,212 @@ letters = [
 
 
 def parse_drug(url):
-    drug = Drug()
-    drug.url = url
+    session = SessionLocal()
     try:
+        # Проверяем, существует ли уже препарат с таким URL
+        drug = session.query(Drug).filter_by(url=url).first()
+
+        if not drug:
+            # Если препарат не найден, создаем новый экземпляр
+            drug = Drug(url=url)
+            logger.info(f"Создаем новый препарат с URL: {url}")
+        else:
+            logger.info(f"Препарат с URL {url} уже существует, обновляем данные.")
+
         # Загружаем страницу
-        response = requests.get(url)
-        response.raise_for_status()  # Проверяем успешность запроса
-        logger.info(f"Successfully fetched page: {url}")
-    except requests.RequestException as e:
-        logger.error(f"Failed to fetch page: {url}, error: {e}")
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+            logger.info(f"Successfully fetched page: {url}")
+        except requests.RequestException as e:
+            logger.error(f"Failed to fetch page: {url}, error: {e}")
+            return
 
-    soup = bs(response.content, 'lxml')
+        soup = bs(response.content, 'lxml')
 
-    # название препарата
-    try:
-        drug.name = soup.find(class_="products-table-name").text.strip('\n').strip()
-    except Exception as e:
-        logger.warning(f"Ошибка {e} при попытке спарсить название препарата")
-        return
+        # название препарата
+        try:
+            drug.name = soup.find(class_="products-table-name").text.strip('\n').strip()
+        except Exception as e:
+            logger.warning(f"Ошибка {e} при попытке спарсить название препарата")
+            return
 
-    # Описание типа препарата и состава
-    try:
-        drug.description = ""
-        drug_descriptions = soup.find(class_='block-content composition').find_all('p')
-        for drug_desc in drug_descriptions:
-            drug.description += drug_desc.text.strip() + '\n'
-    except Exception as e:
-        drug.description = None
-        logger.warning(f"Ошибка {e} при попытке спарсить описание состава")
+        # Описание типа препарата и состава
+        try:
+            drug.description = ""
+            drug_descriptions = soup.find(class_='block-content composition').find_all('p')
+            for drug_desc in drug_descriptions:
+                drug.description += drug_desc.text.strip() + '\n'
+        except Exception as e:
+            drug.description = None
+            logger.warning(f"Ошибка {e} при попытке спарсить описание состава")
 
-    # состав препарата
-    drug.structure = []
+        # Код ATX
+        try:
+            drug.atx_code = soup.find(id='atc_codes').find(class_='no-underline').text.strip('\n').strip()
+        except Exception as e:
+            drug.atx_code = None
+            logger.warning(f"Ошибка {e} при попытке спарсить код ATX")
 
-    try:
-        structure_table = soup.find(class_='block-content composition').find('table')
-        for row in structure_table.find_all('tr'):
-            cols = row.find_all(['td', 'th'])
-            cols = [ele.text.strip() for ele in cols]
-            if len(cols) > 1:
-                if cols[0]:
-                    drug.structure.append(cols)
-                else:
-                    drug.type = cols[1]
-    except Exception as e:
-        drug.structure = None
-        logger.warning(f"Ошибка {e} при попытке спарсить состав препарата")
+        more_info_element = soup.find(class_='more-info')
 
-    # Код ATX
-    try:
-        drug.atx_code = soup.find(id='atc_codes').find(class_='no-underline').text.strip('\n').strip()
-    except Exception as e:
-        drug.atx_code = None
-        logger.warning(f"Ошибка {e} при попытке спарсить код ATX")
+        # Фармокологическое действие
+        try:
+            drug.influence = more_info_element.find(id='influence').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.influence = None
+            logger.warning(f"Ошибка {e} при попытке спарсить фармакологическое действие")
 
-    more_info_element = soup.find(class_='more-info')
+        # Фармакокинетика
+        try:
+            drug.kinetics = more_info_element.find(id='kinetics').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.kinetics = None
+            logger.warning(f"Ошибка {e} при попытке спарсить фармакокинетику")
 
-    # Фармокологическое действие
-    try:
-        drug.influence = more_info_element.find(id='influence').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.influence = None
-        logger.warning(f"Ошибка {e} при попытке спарсить фармакологическое действие")
+        # Показания препарата
+        try:
+            drug.indication = more_info_element.find(id='indication').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.indication = None
+            logger.warning(f"Ошибка {e} при попытке спарсить показания препарата")
 
-    # Фармакокинетика
-    try:
-        drug.kinetics = more_info_element.find(id='kinetics').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.kinetics = None
-        logger.warning(f"Ошибка {e} при попытке спарсить фармакокинетику")
+        # Режим дозирования
+        try:
+            drug.dosage = more_info_element.find(id='dosage').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.dosage = None
+            logger.warning(f"Ошибка {e} при попытке спарсить режим дозирования")
 
-    # Показания препарата
-    try:
-        drug.indication = more_info_element.find(id='indication').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.indication = None
-        logger.warning(f"Ошибка {e} при попытке спарсить показания препарата")
+        # Побочное действие
+        try:
+            drug.side_effects = more_info_element.find(id='side_effects').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.side_effects = None
+            logger.warning(f"Ошибка {e} при попытке спарсить побочные действия")
 
-    # Режим дозирования
-    try:
-        drug.dosage = more_info_element.find(id='dosage').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.dosage = None
-        logger.warning(f"Ошибка {e} при попытке спарсить режим дозирования")
+        # Противопоказания к применению
+        try:
+            drug.contra = more_info_element.find(id='contra').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.contra = None
+            logger.warning(f"Ошибка {e} при попытке спарсить противопоказания")
 
-    # Побочное действие
-    try:
-        drug.side_effects = more_info_element.find(id='side_effects').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.side_effects = None
-        logger.warning(f"Ошибка {e} при попытке спарсить побочные действия")
+        # Применение при беременности и кормлении грудью
+        try:
+            drug.preg_lact = more_info_element.find(id='preg_lact').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.preg_lact = None
+            logger.warning(f"Ошибка {e} при попытке спарсить применение при беременности и кормлении грудью")
 
-    # Противопоказания к применению
-    try:
-        drug.contra = more_info_element.find(id='contra').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.contra = None
-        logger.warning(f"Ошибка {e} при попытке спарсить противопоказания")
+        # Применение при нарушениях функции печени
+        try:
+            drug.hepato = more_info_element.find(id='hepato').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.hepato = None
+            logger.warning(f"Ошибка {e} при попытке спарсить применение при нарушениях функции печени")
 
-    # Применение при беременности и кормлении грудью
-    try:
-        drug.preg_lact = more_info_element.find(id='preg_lact').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.preg_lact = None
-        logger.warning(f"Ошибка {e} при попытке спарсить применение при беременности и кормлении грудью")
+        # Применение при нарушениях функции почек
+        try:
+            drug.renal = more_info_element.find(id='renal').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.renal = None
+            logger.warning(f"Ошибка {e} при попытке спарсить применение при нарушениях функции почек")
 
-    # Применение у детей
-    try:
-        drug.child = more_info_element.find(id='child').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.child = None
-        logger.warning(f"Ошибка {e} при попытке спарсить применение у детей")
+        # Применение у детей
+        try:
+            drug.child = more_info_element.find(id='child').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.child = None
+            logger.warning(f"Ошибка {e} при попытке спарсить применение у детей")
 
-    # Особые указания
-    try:
-        drug.special = more_info_element.find(id='special').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.special = None
-        logger.warning(f"Ошибка {e} при попытке спарсить особые указания")
+        # Применение у пожилых пациентов
+        try:
+            drug.old_use = more_info_element.find(id='old').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.old_use = None
+            logger.warning(f"Ошибка {e} при попытке спарсить применение у пожилых пациентов")
 
-    # Передозировка
-    try:
-        drug.over_dosage = more_info_element.find(id='over_dosage').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.over_dosage = None
-        logger.warning(f"Ошибка {e} при попытке спарсить передозировку")
+        # Особые указания
+        try:
+            drug.special = more_info_element.find(id='special').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.special = None
+            logger.warning(f"Ошибка {e} при попытке спарсить особые указания")
 
-    # Лекарственное взаимодействие
-    try:
-        drug.interaction = more_info_element.find(id='interaction').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.interaction = None
-        logger.warning(f"Ошибка {e} при попытке спарсить лекарственное взаимодействие")
+        # Передозировка
+        try:
+            drug.over_dosage = more_info_element.find(id='over_dosage').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.over_dosage = None
+            logger.warning(f"Ошибка {e} при попытке спарсить передозировку")
 
-    # Условия хранения препарата
-    try:
-        drug.storage_conditions = more_info_element.find(id='storage_conditions').find(
-            class_='block-content').text.strip()
-    except Exception as e:
-        drug.storage_conditions = None
-        logger.warning(f"Ошибка {e} при попытке спарсить условия хранения препарата")
+        # Лекарственное взаимодействие
+        try:
+            drug.interaction = more_info_element.find(id='interaction').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.interaction = None
+            logger.warning(f"Ошибка {e} при попытке спарсить лекарственное взаимодействие")
 
-    # Срок годности препарата
-    try:
-        drug.storage_time = more_info_element.find(id='storage_time').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.storage_time = None
-        logger.warning(f"Ошибка {e} при попытке спарсить срок годности препарата")
+        # Условия хранения препарата
+        try:
+            drug.storage_conditions = more_info_element.find(id='storage_conditions').find(
+                class_='block-content').text.strip()
+        except Exception as e:
+            drug.storage_conditions = None
+            logger.warning(f"Ошибка {e} при попытке спарсить условия хранения препарата")
 
-    # Условия реализации
-    try:
-        drug.pharmacy_conditions = more_info_element.find(id='pharm').find(class_='block-content').text.strip()
-    except Exception as e:
-        drug.pharmacy_conditions = None
-        logger.warning(f"Ошибка {e} при попытке спарсить условия реализации")
+        # Срок годности препарата
+        try:
+            drug.storage_time = more_info_element.find(id='storage_time').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.storage_time = None
+            logger.warning(f"Ошибка {e} при попытке спарсить срок годности препарата")
 
-    # TODO сделать обновление на случай если ссылка уже есть в бд
-    try:
-        session = SessionLocal()
-        session.add(drug)
+        # Условия реализации
+        try:
+            drug.pharmacy_conditions = more_info_element.find(id='pharm').find(class_='block-content').text.strip()
+        except Exception as e:
+            drug.pharmacy_conditions = None
+            logger.warning(f"Ошибка {e} при попытке спарсить условия реализации")
+
+        session.merge(drug)  # Используем merge, чтобы обновить или добавить, если записи не было
         session.commit()
+
+        # Повторно извлекаем drug с его id
+        drug = session.query(Drug).filter_by(url=url).first()
+
+        # Парсим и добавляем или обновляем состав в таблице active_ingredients
+        try:
+            structure_table = soup.find(class_='block-content composition').find('table')
+            # Удаляем старые активные компоненты, если они есть, чтобы записать новые
+            session.query(ActiveIngredient).filter(ActiveIngredient.drug_id == drug.id).delete()
+
+            for row in structure_table.find_all('tr'):
+                cols = row.find_all(['td', 'th'])
+                cols = [ele.text.strip() for ele in cols]
+
+                if len(cols) > 1 and cols[0]:  # Проверяем, что есть название и дозировка
+                    ingredient_name = cols[0]
+                    ingredient_dosage = cols[1]
+
+                    active_ingredient = ActiveIngredient(
+                        drug_id=drug.id,
+                        name=ingredient_name,
+                        dosage=ingredient_dosage
+                    )
+
+                    session.add(active_ingredient)
+            session.commit()
+
+        except Exception as e:
+            logger.warning(f"Ошибка {e} при попытке спарсить состав препарата")
+            session.rollback()
+
     except Exception as e:
-        logger.error(f"Ошибка {e} при попытке записать препарат в бд {url}")
+        logger.error(f"Ошибка {e} при обработке препарата {url}")
         session.rollback()
+
     finally:
         session.close()
 
