@@ -257,7 +257,7 @@ def parse_links():
 
         # Парсим количество препаратов, чтобы получить количество страниц
         soup = bs(response.content, 'lxml')
-        number_of_page = int(soup.find(class_="block-head").contents[1].contents[0])//100 + 1
+        number_of_page = int(soup.find(class_="block-head").contents[1].contents[0])//100 + 2
 
         for i in range(1, number_of_page):
             paginated_url = f"{url}?p={i}"
