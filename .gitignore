@@ -1,5 +1,5 @@
 
 parser/parse_drug.log
-parser/.env
+parser/db/.env
 /.idea
 /__pycache__

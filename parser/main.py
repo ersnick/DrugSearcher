@@ -2,13 +2,15 @@ import logging
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup as bs
-from models import Drug, SessionLocal, init_db, ActiveIngredient
+
+from parser.db.database import init_db, SessionLocal
+from parser.db.models import Drug, ActiveIngredient
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 # Создаем обработчики для вывода в файл и консоль
-file_handler = logging.FileHandler('parse_drug.log')
+file_handler = logging.FileHandler('parser/parse_drug.log')
 console_handler = logging.StreamHandler()
 
 # Формат логов

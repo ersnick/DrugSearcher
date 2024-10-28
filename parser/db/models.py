@@ -1,25 +1,7 @@
-from sqlalchemy import Column, Integer, String, Text, create_engine, ForeignKey
-from sqlalchemy.ext.declarative import declarative_base
-import os
-from dotenv import load_dotenv
-from sqlalchemy.orm import sessionmaker, Session, relationship
+from sqlalchemy import Column, Integer, String, Text, ForeignKey
+from sqlalchemy.orm import relationship
 
-load_dotenv()
-
-# строка подключения к базе данных PostgreSQL
-database_url = f"postgresql+psycopg2://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}"
-
-# Создание объекта Engine для подключения
-engine = create_engine(database_url)
-
-# Создание сессии
-SessionLocal = sessionmaker(bind=engine, class_=Session, expire_on_commit=False)
-
-Base = declarative_base()
-
-
-def init_db():
-    Base.metadata.create_all(bind=engine)
+from parser.db.database import Base
 
 
 class Drug(Base):
