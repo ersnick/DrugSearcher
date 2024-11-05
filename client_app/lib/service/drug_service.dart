@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 Future<Map<String, dynamic>?> getDrugInfo(String name) async {
-  final url = Uri.parse('http://b257-188-17-211-72.ngrok-free.app/v1/drug/$name');
+  final url = Uri.parse('https://18d4-188-17-211-72.ngrok-free.app/v1/drug/$name');
 
   try {
     final response = await http.get(url);
